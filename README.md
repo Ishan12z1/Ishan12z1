@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Ishan Sharma
 
 AI Engineer building agentic AI systems, multimodal ML pipelines, and backend platforms.
@@ -14,6 +12,7 @@ I work across LLM applications, robotics, RAG systems, evaluation pipelines, and
 - Backend platforms and APIs using Python, FastAPI, PostgreSQL, and async workflows
 - ML systems for robotics, automation, and real-time decision making
 - Evaluation and observability pipelines for AI systems
+- Check out my youtube channel to see what I am working on : https://www.youtube.com/@ish90917
 
 ## Featured work
 
